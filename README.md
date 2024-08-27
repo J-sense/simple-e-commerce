@@ -1,5 +1,5 @@
 ## Live Link
-Hosted in Netlify -> [HeroGadget](https://herogadget.netlify.app/)
+Hosted in Netlify -> [simole-e-commerce](https://herogadget.netlify.app/)
 
 
 
